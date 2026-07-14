@@ -1,11 +1,13 @@
 {
-    "version": "4.2.0",
+    "version": "4.4.0",
     "download_url": "https://github.com/pv15suporte-gif/SGRT/releases/download/v4.2.0/sgrt_v4.2.0.zip",
     "notes": [
-        "Novo Dashboard",
-        "Workflow profissional",
-        "Correção do MySQL",
-        "Melhoria das permissões"
+        "Pacote Oficial com ícone",
+        "Splash",
+        "Metadados",
+        "logs",
+        "Atualizador",
+        "Suporte UPX"
     ],
     "mandatory": false
 }
